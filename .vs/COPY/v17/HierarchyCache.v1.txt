@@ -1,0 +1,566 @@
+﻿++Solution 'COPY' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:COPY.sln
+++COPY
+i:{00000000-0000-0000-0000-000000000000}:COPY
+++Properties
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\properties\
+++References
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++App_Data
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\app_data\
+++App_Start
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\app_start\
+++blog
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\blog\
+++Content
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\content\
+++css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\css\
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\css\
+++fonts
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\fonts\
+++images
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\images\
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\
+++img
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\img\
+++dash-bg-01.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\img\dash-bg-01.jpg
+++dash-bg-02.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\img\dash-bg-02.jpg
+++dash-bg-03.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\img\dash-bg-03.jpg
+++product-image.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\img\product-image.jpg
+++profile-image.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\img\profile-image.png
+++jquery-ui-datepicker
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\
+++js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\js\
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\js\
+++Scripts
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\
+++WebForms
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\
+++MSAjax
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\
+++DetailsView.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\detailsview.js
+++Focus.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\focus.js
+++GridView.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\gridview.js
+++Menu.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\menu.js
+++MenuStandards.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\menustandards.js
+++SmartNav.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\smartnav.js
+++TreeView.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\treeview.js
+++WebForms.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\webforms.js
+++WebParts.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\webparts.js
+++WebUIValidation.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\webuivalidation.js
+++bootstrap.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\bootstrap.js
+++bootstrap.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\bootstrap.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\js\bootstrap.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\js\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\modernizr-2.8.3.js
+++webfonts
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\
+++ABOUT THIS TEMPLATE.txt
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\about this template.txt
+++About.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\about.aspx
+++About.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\about.aspx.cs
+++About.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\about.aspx.designer.cs
+++accounts.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\accounts.html
+++add-product.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\add-product.html
+++adddesign.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\adddesign.aspx
+++adddesign.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\adddesign.aspx.cs
+++adddesign.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\adddesign.aspx.designer.cs
+++addemployee.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addemployee.aspx
+++addemployee.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addemployee.aspx.cs
+++addemployee.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addemployee.aspx.designer.cs
+++addfinancer.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addfinancer.aspx
+++addfinancer.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addfinancer.aspx.cs
+++addfinancer.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addfinancer.aspx.designer.cs
+++addproduct.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addproduct.aspx
+++addproduct.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addproduct.aspx.cs
+++addproduct.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addproduct.aspx.designer.cs
+++addproject.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addproject.aspx
+++addproject.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addproject.aspx.cs
+++addproject.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addproject.aspx.designer.cs
+++addvehicletype.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addvehicletype.aspx
+++addvehicletype.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addvehicletype.aspx.cs
+++addvehicletype.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\addvehicletype.aspx.designer.cs
+++adminhome.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\adminhome.aspx
+++adminhome.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\adminhome.aspx.cs
+++adminhome.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\adminhome.aspx.designer.cs
+++Blog-Template.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\blog-template.css
+++Bundle.config
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\bundle.config
+++Contact.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\contact.aspx
+++edit-product.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\edit-product.html
+++editproduct.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\editproduct.aspx
+++editproduct.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\editproduct.aspx.cs
+++editproduct.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\editproduct.aspx.designer.cs
+++emplogin.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\emplogin.aspx
+++emplogin.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\emplogin.aspx.cs
+++emplogin.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\emplogin.aspx.designer.cs
+++employee.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\employee.aspx
+++employee.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\employee.aspx.cs
+++employee.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\employee.aspx.designer.cs
+++employeelist.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\employeelist.aspx
+++employeelist.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\employeelist.aspx.cs
+++employeelist.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\employeelist.aspx.designer.cs
+++favicon.ico
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\favicon.ico
+++finance.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\finance.aspx
+++Global.asax
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\global.asax
+++Home.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\home.css
+++Home.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\home.html
+++index.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\index.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\index.html
+++jquery.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\external\jquery\jquery.js
+++LICENSE-fullcalendar.txt
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\license-fullcalendar.txt
+++LOGIN.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\login.aspx
+++LOGIN.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\login.aspx.cs
+++LOGIN.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\login.aspx.designer.cs
+++login.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\login.html
+++main.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\main.aspx
+++main.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\main.aspx.cs
+++main.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\main.aspx.designer.cs
+++main.Master
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\main.master
+++main.Master.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\main.master.cs
+++main.Master.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\main.master.designer.cs
+++master.Master
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\master.master
+++master.Master.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\master.master.cs
+++master.Master.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\master.master.designer.cs
+++nicepage.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\nicepage.css
+++nicepage.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\nicepage.js
+++packages.config
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\packages.config
+++Post-Template.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\post-template.css
+++products.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\products.aspx
+++products.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\products.aspx.cs
+++products.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\products.aspx.designer.cs
+++products.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\products.html
+++register.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\register.aspx
+++register.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\register.aspx.cs
+++register.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\register.aspx.designer.cs
+++stagetransaction.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\stagetransaction.aspx
+++stagetransaction.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\stagetransaction.aspx.cs
+++stagetransaction.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\stagetransaction.aspx.designer.cs
+++temp.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\temp.aspx
+++userlist.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\userlist.aspx
+++userlist.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\userlist.aspx.cs
+++userlist.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\userlist.aspx.designer.cs
+++viewproduct.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewproduct.aspx
+++viewproduct.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewproduct.aspx.cs
+++viewproduct.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewproduct.aspx.designer.cs
+++viewproject.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewproject.aspx
+++viewproject.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewproject.aspx.cs
+++viewproject.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewproject.aspx.designer.cs
+++ViewSwitcher.ascx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewswitcher.ascx
+++ViewSwitcher.ascx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewswitcher.ascx.cs
+++ViewSwitcher.ascx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewswitcher.ascx.designer.cs
+++viewtypes.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewtypes.aspx
+++viewtypes.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewtypes.aspx.cs
+++viewtypes.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\viewtypes.aspx.designer.cs
+++Web.config
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\web.config
+++workflow.aspx
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\workflow.aspx
+++AssemblyInfo.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++AspNet.ScriptManager.bootstrap
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++AspNet.ScriptManager.jQuery
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++DocumentFormat.OpenXml
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++Microsoft.AspNet.FriendlyUrls
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++Microsoft.AspNet.Web.Optimization.WebForms
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++Microsoft.CSharp
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++Microsoft.ScriptManager.MSAjax
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++Microsoft.ScriptManager.WebForms
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++Microsoft.Web.Infrastructure
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++Newtonsoft.Json
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.ComponentModel.DataAnnotations
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Configuration
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Core
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Data
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Data.DataSetExtensions
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Drawing
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.EnterpriseServices
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Web
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Web.ApplicationServices
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Web.DynamicData
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Web.Entity
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Web.Extensions
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Web.Optimization
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Web.Services
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Xml
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++System.Xml.Linq
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++WebGrease
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++WindowsBase
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:
+++BundleConfig.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\app_start\bundleconfig.cs
+++RouteConfig.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\app_start\routeconfig.cs
+++blog.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\blog\blog.html
+++post-1.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\blog\post-1.html
+++post-2.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\blog\post-2.html
+++post-3.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\blog\post-3.html
+++post-4.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\blog\post-4.html
+++post-5.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\blog\post-5.html
+++post.html
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\blog\post.html
+++bootstrap-theme.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\content\bootstrap.css
+++bootstrap.css.map
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\content\bootstrap.css.map
+++bootstrap.min.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\content\bootstrap.min.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\css\bootstrap.min.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\content\bootstrap.min.css.map
+++Site.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\content\site.css
+++fontawesome.min.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\css\fontawesome.min.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\css\fontawesome.min.css
+++fullcalendar.min.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\css\fullcalendar.min.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\css\fullcalendar.min.css
+++tooplate.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\css\tooplate.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\css\tooplate.css
+++glyphicons-halflings-regular.eot
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\fonts\glyphicons-halflings-regular.woff2
+++8e075c3d-6d19-3aa0-6b3f-c73b145fc018.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\images\8e075c3d-6d19-3aa0-6b3f-c73b145fc018.jpg
+++distribution-warehouse-worker-with-headset-communication-organizing-goods-delivery_342744-1480.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\images\distribution-warehouse-worker-with-headset-communication-organizing-goods-delivery_342744-1480.jpg
+++fgc.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\images\fgc.jpg
+++man-warehouse-working-with-packages_23-2148886842.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\images\man-warehouse-working-with-packages_23-2148886842.jpg
+++sas-min.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\images\sas-min.jpg
+++sdee.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\images\sdee.jpg
+++tte-woman-manager-controlling-business-warehouse-logistic-center-well-dressed-successful-woman-checking-distribution-while-.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\images\tte-woman-manager-controlling-business-warehouse-logistic-center-well-dressed-successful-woman-checking-distribution-while-.jpg
+++ygty-min.jpg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\images\ygty-min.jpg
+++external
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\external\
+++AUTHORS.txt
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\authors.txt
+++jquery-ui.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\jquery-ui.css
+++jquery-ui.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\jquery-ui.js
+++jquery-ui.min.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\jquery-ui.min.css
+++jquery-ui.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\jquery-ui.min.js
+++jquery-ui.structure.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\jquery-ui.structure.css
+++jquery-ui.structure.min.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\jquery-ui.structure.min.css
+++jquery-ui.theme.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\jquery-ui.theme.css
+++jquery-ui.theme.min.css
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\jquery-ui.theme.min.css
+++LICENSE.txt
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\license.txt
+++package.json
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\package.json
+++Chart.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\js\chart.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\js\chart.min.js
+++fullcalendar.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\js\fullcalendar.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\js\fullcalendar.min.js
+++jquery-3.3.1.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\js\jquery-3.3.1.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\js\jquery-3.3.1.min.js
+++moment.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\js\moment.min.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\js\moment.min.js
+++tooplate-scripts.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\js\tooplate-scripts.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\js\tooplate-scripts.js
+++utils.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\js\utils.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\js\utils.js
+++MicrosoftAjax.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\microsoftajax.js
+++MicrosoftAjaxApplicationServices.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\microsoftajaxapplicationservices.js
+++MicrosoftAjaxComponentModel.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\microsoftajaxcomponentmodel.js
+++MicrosoftAjaxCore.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\microsoftajaxcore.js
+++MicrosoftAjaxGlobalization.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\microsoftajaxglobalization.js
+++MicrosoftAjaxHistory.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\microsoftajaxhistory.js
+++MicrosoftAjaxNetwork.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\microsoftajaxnetwork.js
+++MicrosoftAjaxSerialization.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\microsoftajaxserialization.js
+++MicrosoftAjaxTimer.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\microsoftajaxtimer.js
+++MicrosoftAjaxWebForms.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\microsoftajaxwebforms.js
+++MicrosoftAjaxWebServices.js
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\scripts\webforms\msajax\microsoftajaxwebservices.js
+++fa-brands-400.eot
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-brands-400.eot
+++fa-brands-400.svg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-brands-400.svg
+++fa-brands-400.ttf
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-brands-400.ttf
+++fa-brands-400.woff
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-brands-400.woff
+++fa-brands-400.woff2
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-brands-400.woff2
+++fa-regular-400.eot
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-regular-400.eot
+++fa-regular-400.svg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-regular-400.svg
+++fa-regular-400.ttf
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-regular-400.ttf
+++fa-regular-400.woff
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-regular-400.woff
+++fa-regular-400.woff2
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-regular-400.woff2
+++fa-solid-900.eot
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-solid-900.eot
+++fa-solid-900.svg
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-solid-900.svg
+++fa-solid-900.ttf
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-solid-900.ttf
+++fa-solid-900.woff
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-solid-900.woff
+++fa-solid-900.woff2
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\webfonts\fa-solid-900.woff2
+++Contact.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\contact.aspx.cs
+++Contact.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\contact.aspx.designer.cs
+++finance.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\finance.aspx.cs
+++finance.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\finance.aspx.designer.cs
+++Global.asax.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\global.asax.cs
+++temp.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\temp.aspx.cs
+++temp.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\temp.aspx.designer.cs
+++Web.Debug.config
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\web.debug.config
+++Web.Release.config
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\web.release.config
+++workflow.aspx.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\workflow.aspx.cs
+++workflow.aspx.designer.cs
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\workflow.aspx.designer.cs
+++jquery
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\external\jquery\
+++ui-bg_glass_75_d0e5f5_1x400.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-bg_glass_75_d0e5f5_1x400.png
+++ui-bg_glass_85_dfeffc_1x400.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-bg_glass_85_dfeffc_1x400.png
+++ui-bg_glass_95_fef1ec_1x400.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-bg_glass_95_fef1ec_1x400.png
+++ui-bg_gloss-wave_55_5c9ccc_500x100.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-bg_gloss-wave_55_5c9ccc_500x100.png
+++ui-bg_inset-hard_100_f5f8f9_1x100.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-bg_inset-hard_100_f5f8f9_1x100.png
+++ui-bg_inset-hard_100_fcfdfd_1x100.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-bg_inset-hard_100_fcfdfd_1x100.png
+++ui-icons_217bc0_256x240.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-icons_217bc0_256x240.png
+++ui-icons_2e83ff_256x240.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-icons_2e83ff_256x240.png
+++ui-icons_469bdd_256x240.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-icons_469bdd_256x240.png
+++ui-icons_6da8d5_256x240.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-icons_6da8d5_256x240.png
+++ui-icons_cd0a0a_256x240.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-icons_cd0a0a_256x240.png
+++ui-icons_d8e7f3_256x240.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-icons_d8e7f3_256x240.png
+++ui-icons_f9bd01_256x240.png
+i:{c6895b05-7b4d-4123-98f2-804d457d8b8a}:e:\college project\copy\copy\jquery-ui-datepicker\images\ui-icons_f9bd01_256x240.png
